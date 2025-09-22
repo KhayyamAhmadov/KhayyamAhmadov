@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a **Data Analyst & Machine Learning Engineer
 - **Web Scraping & Automation:** BeautifulSoup, Selenium, APIs  
 - **Machine Learning & Deep Learning:** Scikit-learn, XGBoost, TensorFlow, Keras  
 - **Dashboard & Reporting:** PowerBI, Interactive dashboards  
-- **Databases & SQL:** MySQL, PostgreSQL, MongoDB, data preprocessing, query optimization  
+- **Databases & SQL:** MsSQL, PostgreSQL, MongoDB, data preprocessing, query optimization  
 - **Big Data & Workflow Tools:** PySpark, Apache Airflow, Docker (running programs in containers)  
 - **Programming & Tools:** Python, Jupyter Notebook, Git/GitHub, VS Code  
 
