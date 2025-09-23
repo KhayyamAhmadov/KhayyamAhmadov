@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Xeyyam Ehmedov
 
-Welcome to my GitHub profile! I’m a **Data Analyst & Machine Learning Engineer** passionate about turning raw data into actionable insights, building intelligent models, and creating interactive dashboards.
+Welcome to my GitHub profile!  
+I specialize in Data Science and Data Analytics, with strong expertise in Machine Learning and Deep Learning. My focus is on extracting insights from raw data, building intelligent predictive models, and designing interactive dashboards that turn data into impactful decisions.
 
 ---
 
