@@ -46,7 +46,8 @@ I specialize in Data Science and Data Analytics, with strong expertise in Machin
 ## 📫 Contact Me
 
 - LinkedIn: [Xəyyam Əhmədov](www.linkedin.com/in/xəyyam-əhmədov)  
-- Email: ehmedovxeyyam21@gmail.com  
+- Email: ehmedovxeyyam21@gmail.com
+- Medium: [Medium Profile Link](https://medium.com/@xeyyam.ehmedov30)
 - Portfolio: [Portfolio](https://github.com/KhayyamAhmadov)
 
 ---
