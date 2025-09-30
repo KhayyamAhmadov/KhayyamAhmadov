@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Xeyyam Ehmedov
+# 👋 Hi, I’m Khayyam Ahmadov
 
 Welcome to my GitHub profile!  
 I specialize in Data Science and Data Analytics, with strong expertise in Machine Learning and Deep Learning. My focus is on extracting insights from raw data, building intelligent predictive models, and designing interactive dashboards that turn data into impactful decisions.
