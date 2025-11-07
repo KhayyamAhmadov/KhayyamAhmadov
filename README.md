@@ -19,7 +19,8 @@ I specialize in Data Science and Data Analytics, with strong expertise in Machin
 - **Dashboard & Reporting:** PowerBI, Interactive dashboards  
 - **Databases & SQL:** MsSQL, PostgreSQL, MongoDB, data preprocessing, query optimization  
 - **Big Data & Workflow Tools:** PySpark, Apache Airflow, Docker (running programs in containers)  
-- **Programming & Tools:** Python, Jupyter Notebook, Git/GitHub, VS Code  
+- **Programming & Tools:** Python, Jupyter Notebook, Git/GitHub, VS Code
+- **Operating Systems:** Linux, Command Line Proficiency, WSL
 
 ---
 
